@@ -1,0 +1,39 @@
+
+
+body {
+    background-color: black;
+    background-image: linear-gradient(to right,#2474A9, #7846D1, #8640d6);
+}
+
+h1 {
+    color: white;
+    font-family: 'Single Day', cursive;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: #2474A9;
+}
+
+.pause-btn {
+    background-color: grey;
+}
+
+.stop-btn {
+    background-color: #2B2433;
+}
